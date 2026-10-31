@@ -193,6 +193,16 @@ hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
 metafile = true
 
 [[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "b122c36d5a4454fb8a40bf1e6738e2ae8a68e97a2f85c3285ba839068e30dde8"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "19ae82550e2d7e5a444bb3c5c49777ecf6dfd6334e286ad499ca17235587d2ed"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "85e00f97c2d58db3167bb6608558aa956654f5b0570e0abac082a1d0d4e3c19d"
 metafile = true
