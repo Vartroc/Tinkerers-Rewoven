@@ -9,6 +9,10 @@ file = "flake.nix"
 hash = "6268e7325548f384841d25d3bb4e1498eecc992a9bdc09d269f747c872b1f068"
 
 [[files]]
+file = "mods.sh"
+hash = "425b9b6cb0170afb90416c0633a4d09a7ccd6e330a4da24cab22bdccb93c793f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bb194ec7f1affde2fb2d6d052683e96babe72b693e4c3263dfd8245d3941b701"
 metafile = true
