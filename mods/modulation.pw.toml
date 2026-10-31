@@ -1,0 +1,13 @@
+name = "Modulation"
+filename = "modulation-4.0.6+26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItRzabx0/versions/6iK4T48g/modulation-4.0.6%2B26.3-fabric.jar"
+hash-format = "sha512"
+hash = "32985d9a8ae6eaba9ca96d117f1f564f0a0378f70920b3e5f546e501533f921172d1a3bd561afe29a523f385c44ec47e27791950112c0f2200391a4bf3397d91"
+
+[update]
+[update.modrinth]
+mod-id = "ItRzabx0"
+version = "6iK4T48g"

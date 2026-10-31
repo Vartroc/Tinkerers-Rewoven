@@ -1,0 +1,13 @@
+name = "Tinker's Rewoven"
+author = "Your Name"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff1e3fecdf8b9ad59e3ad13d3b1b4989956cd85c7f39fd8f6ef551416ad5ad3c"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"
