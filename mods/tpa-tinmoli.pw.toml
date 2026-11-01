@@ -1,0 +1,13 @@
+name = "Tpa-Tinmoli"
+filename = "tpa-fabric-26.3-v1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cY7rNL8R/versions/ewFLf02U/tpa-fabric-26.3-v1.0.7.jar"
+hash-format = "sha512"
+hash = "5141d65b000309a0a3a6f9d5d892accff2af859fba7846b8bd0f4fec72baaa6da1cb2f5549ead052d38f52404d7f689273a9f9d48e54656ddaa0a653d71ac399"
+
+[update]
+[update.modrinth]
+mod-id = "cY7rNL8R"
+version = "ewFLf02U"

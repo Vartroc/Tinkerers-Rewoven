@@ -178,6 +178,11 @@ hash = "11753ff4740122b98d7b0aae3eccda9a4ff289c23448c7abfd0c8dbc425b10c7"
 metafile = true
 
 [[files]]
+file = "mods/tpa-tinmoli.pw.toml"
+hash = "bea5ad17002352ab919eb6487c01d81ab2530643a7203f8c63dcb64cb698d772"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0b8dfdec9a2625121cdce419d34605e35689ba704cb4d75ada5cbfeeb77c6b4d"
 metafile = true
